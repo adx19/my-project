@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.taskapi.TaskServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-09-07T17:20:23.849Z" hostname="adx" time="0.018">
+  <properties/>
+  <testcase name="shouldUpdateTask()" classname="com.example.taskapi.TaskServiceTest" time="0.012"/>
+  <testcase name="shouldCreateTask()" classname="com.example.taskapi.TaskServiceTest" time="0.001"/>
+  <testcase name="shouldGetAllTasks()" classname="com.example.taskapi.TaskServiceTest" time="0.0"/>
+  <testcase name="shouldDeleteTask()" classname="com.example.taskapi.TaskServiceTest" time="0.001"/>
+  <testcase name="shouldFindTaskById()" classname="com.example.taskapi.TaskServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
